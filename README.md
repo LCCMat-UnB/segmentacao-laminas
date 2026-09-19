@@ -21,7 +21,7 @@
 | Érick   | Mestrando  |        |            |
 | Davi    | Graduando  |        |            |
 | Dimitry | Graduando  |        |            |
-| Larrisa | Graduando  |        |            |
+| Larissa | Graduando  |        |            |
 | William | Graduando  |        |            |
 
 
